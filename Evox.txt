@@ -1,0 +1,28 @@
+Changelogs Evolution X
+(2023/10/16)
+- Revert [Change Kernel To Furry Kernel]
+
+(2023/10/16)
+- Change Kernel To Furry Kernul @henztz ( using weebx clang )
+- Enable Force Fast Charge By Default
+- Adding Live Wallpaper Picker
+- DECRYPTED + ENFORCING
+- And Much More!!!
+
+(2023/10/14)
+- Initial Build
+- Security Patch Update To October Patch
+- ENCRYPTED
+- Already Inbuilt Gapps ( Mini Gapps [OPENGAPS] )
+- Include RealmeParts
+- Non Dynamic Partition
+
+Information: Are There Still Errors/Buges? Report It, Not Just Ranting and Being Crazy
+  I'm Sorry If There Are Errors, Because I'm A Pemula🤓🙏
+
+Thanks To:
+- Zeta (@zetaxbyte) For Server,DT,VT, His help🙏
+- Henztz Furry (@hentzt) For KT
+- XSans0 For Clang
+- Shygosh (@shygosh) For His Help🙏
+- And To All The Sepuh Who Have Helped With The Test/build 
