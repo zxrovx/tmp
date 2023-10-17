@@ -1,6 +1,6 @@
 Changelogs Evolution X
 (2023/10/17)
-- Use Rebranded Kernel[NVIDIA-Geforce-RTX-4090 + Using WeebX Clang 18.0.0 + LLVM]
+- Use Rebranded Kernel[NVIDIA-Geforce-RTX-4090 + Using Proton Clang + LLVM]
 - And Others...
 
 (2023/10/16)
