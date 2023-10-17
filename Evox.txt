@@ -1,4 +1,8 @@
 Changelogs Evolution X
+(2023/10/17)
+- Use Rebranded Kernel[ZXROVX-PEMULA + Using WeebX Clang 18.0.0 + LLVM]
+- And Others...
+
 (2023/10/16)
 - Revert [Change Kernel To Furry Kernel]
 
