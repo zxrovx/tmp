@@ -1,4 +1,10 @@
 Changelogs Evolution X
+(2023/10/18)
+-
+-
+-
+-
+
 (2023/10/17)
 - Use Rebranded Kernel[NVIDIA-Geforce-RTX-4090 + Using Proton Clang + LLVM]
 - And Others...
