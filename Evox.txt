@@ -1,7 +1,7 @@
 Changelogs Evolution X
 
 (2023/10/19)
-- Use Weeboo Kernel ( With Neutron Clang + LLVM + LTO + PGO )
+- Use Weeboo Kernel ( With Proton Clang + LLVM + LTO + PGO )
 - Revert Change On Device Tree
 - Update KernelSU
 - And Hopefully This Build Boot && Not Buggy
