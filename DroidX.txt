@@ -1,0 +1,15 @@
+Changelogs DroidX UI
+
+(2023/10/21)
+- Initial Vanilla Build + Userdebug Type Variant
+- Added Dolby Apps
+- Uses A Kernel That Includes KernelSU
+
+Information: Are There Still Errors/Buges? Report It, Not Just Ranting and Being Crazy
+  I'm Sorry If There Are Errors, Because I'm A Pemula🤓🙏
+
+Thanks To:
+- Zeta (@zetaxbyte) For Server And His help🙏
+- Kdrag0n For Clang
+- Henztz (@henztz) For KT
+- And To All The Sepuh Who Have Helped With The Test/build 
