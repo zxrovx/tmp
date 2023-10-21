@@ -1,6 +1,10 @@
 Changelogs Evolution X
 
-2023/10/19)
+(2023/10/21)
+- Use Rebased Device Tree
+- Use Filian Kernel ( With Proton Clang )
+
+(2023/10/19)
 - Use Weeboo-Kernel ( With Weebx Clang 18.0.0 + LLVM + LTO + PGO )
 - Revert Change On Device Tree
 
