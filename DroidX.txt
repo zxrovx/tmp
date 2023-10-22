@@ -2,6 +2,7 @@ Changelogs DroidX UI
 
 (2023/10/21)
 - Initial Vanilla Build + Userdebug Type Variant
+- Merge October Security Patch Update
 - Added Dolby Apps
 - Uses A Kernel That Includes KernelSU
 - KCAL Fixed, Will Not Force Close Again
