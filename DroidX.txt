@@ -4,6 +4,7 @@ Changelogs DroidX UI
 - Initial Vanilla Build + Userdebug Type Variant
 - Added Dolby Apps
 - Uses A Kernel That Includes KernelSU
+- KCAL Fixed, Will Not Force Close Again
 
 Information: Are There Still Errors/Buges? Report It, Not Just Ranting and Being Crazy
   I'm Sorry If There Are Errors, Because I'm A Pemula🤓🙏
